@@ -19,7 +19,6 @@ YOLOv8_Handheld_Detection/
 │   ├── standardized_images/         # Uniform JPG format & renamed
 │   ├── deduplicated_images/         # Duplicates removed (perceptual hash)
 │   ├── cleaned_images/              # Manually filtered high‑quality images
-│   ├── custom_pedestrian/           # Additional custom labelled data
 │   ├── images/                      # Final labelled images (for training)
 │   ├── labels/                      # YOLO format labels (class_id x y w h)
 │   └── yolo_dataset/                # Split & ready‑to‑use dataset
