@@ -332,7 +332,7 @@ If you find this work useful, please cite:
   title = {Implementation of a Handheld Item Recognition System Based on YOLOv8},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/your-username/YOLOv8_Handheld_Detection}
+  url = {https://github.com/SquidwardinCh/YOLOv8_Handheld_Detection}
 }
 ```
 
